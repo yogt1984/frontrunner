@@ -1,5 +1,7 @@
 # 🚀 Frontrunner: Altseason Rotation Timing Predictor
 
+Frontrunner is a research and machine learning project that aims to quantify and predict capital flow dynamics during crypto market cycles. By analyzing historical bull runs, the system tracks capital rotation across asset tiers—BTC, ETH, large caps, mid caps, small caps, microcaps, and nanocaps—in order to estimate the delay (Δt) between major cycle milestones (e.g., ETH reaching 50% of ATH) and altcoin pumps. The project further models weekly capital inflows and outflows across the crypto space (CRYPTO_IN / CRYPTO_OUT), including net volume changes by tier, with the goal of training a regressor that predicts the optimal timing for rotating into high-risk, high-reward altcoins. Ultimately, Frontrunner provides a data-driven decision engine to guide entry and exit strategies across the crypto risk spectrum.
+
 ## 🧠 Project Objective
 
 **Frontrunner** aims to build a machine learning system that analyzes previous crypto bull runs to learn the timing of capital rotation between market cap tiers:
